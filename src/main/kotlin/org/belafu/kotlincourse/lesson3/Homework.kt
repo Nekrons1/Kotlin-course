@@ -2,7 +2,7 @@ package org.belafu.kotlincourse.lesson3
 
 val name: String = "Hackathon Survival"
 
-const val date: Double = 20.0
+var date: String = ""
 
 val place: String = ""
 
@@ -12,7 +12,7 @@ var money: Int = 0
         if (value >0) field +=value
     }
 
-var people: Double = 16.0
+var member: Double = 16.0
 
 const val time: Double = 3.0
 
