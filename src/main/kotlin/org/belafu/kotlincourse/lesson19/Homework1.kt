@@ -48,4 +48,5 @@ class Arcade(
     fun prize(prizeAmount: Double): String {
         return "2"
     }
+
 }

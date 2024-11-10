@@ -107,4 +107,5 @@ abstract class ProgrammableDevice : SwitchableDevice(), Programmable {
     override fun execute() {
         println("Прекратить выполнение")
     }
+
 }

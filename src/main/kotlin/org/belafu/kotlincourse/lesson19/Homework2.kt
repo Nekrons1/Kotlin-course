@@ -67,4 +67,5 @@ class ChildrenClass(
     private fun privatePrint() {
         println("Печать из класса ChildrenClass")
     }
+
 }
